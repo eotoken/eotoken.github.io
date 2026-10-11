@@ -113,5 +113,14 @@
       "title": "Source & Reference Notes",
       "file": "appendix-b-sources.html"
     }
+  ],
+  "site_version": "1.0.1",
+  "site_release_notes": [
+    "UTF-8 metadata hardening",
+    "Official PDF navigation label",
+    "Wider desktop whitepaper sidebar",
+    "Previous/Next chapter navigation",
+    "SEO/Open Graph metadata",
+    "Favicon and mobile navigation improvements"
   ]
 }
