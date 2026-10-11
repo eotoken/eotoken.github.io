@@ -1,126 +1,18 @@
 {
-  "version": "1.0",
-  "release": "Public Release",
-  "source": "EO_Token_Whitepaper_v1.0_KR_Public_Release_v1.0_Final.docx",
-  "chapters": [
-    {
-      "kicker": "01",
-      "title": "Executive Summary",
-      "file": "01-executive-summary.html"
-    },
-    {
-      "kicker": "02",
-      "title": "Problem & Opportunity",
-      "file": "02-problem-opportunity.html"
-    },
-    {
-      "kicker": "03",
-      "title": "Vision & Brand Philosophy",
-      "file": "03-vision-brand.html"
-    },
-    {
-      "kicker": "04",
-      "title": "Ecosystem Operating Structure",
-      "file": "04-ecosystem-structure.html"
-    },
-    {
-      "kicker": "05",
-      "title": "Media & Data Engine — 북한 NOW",
-      "file": "05-media-data.html"
-    },
-    {
-      "kicker": "06",
-      "title": "EO Shopping Mall — Commerce Layer",
-      "file": "06-shopping-mall.html"
-    },
-    {
-      "kicker": "07",
-      "title": "Experience & Access Utility",
-      "file": "07-experience-access.html"
-    },
-    {
-      "kicker": "08",
-      "title": "Content & Intelligence Utility",
-      "file": "08-content-intelligence.html"
-    },
-    {
-      "kicker": "09",
-      "title": "EO Token Utility Architecture",
-      "file": "09-token-utility.html"
-    },
-    {
-      "kicker": "10",
-      "title": "Token Economy",
-      "file": "10-token-economy.html"
-    },
-    {
-      "kicker": "11",
-      "title": "EO Foundation, Treasury & Governance",
-      "file": "11-foundation-governance.html"
-    },
-    {
-      "kicker": "12",
-      "title": "Technology Architecture",
-      "file": "12-technology.html"
-    },
-    {
-      "kicker": "13",
-      "title": "Revenue & Funding",
-      "file": "13-revenue-funding.html"
-    },
-    {
-      "kicker": "14",
-      "title": "Korean Peninsula Peace Tourism Belt",
-      "file": "14-peace-tourism.html"
-    },
-    {
-      "kicker": "15",
-      "title": "Long-Term Expansion Portfolio",
-      "file": "15-long-term-expansion.html"
-    },
-    {
-      "kicker": "16",
-      "title": "Policy Alignment",
-      "file": "16-policy-alignment.html"
-    },
-    {
-      "kicker": "17",
-      "title": "Roadmap",
-      "file": "17-roadmap.html"
-    },
-    {
-      "kicker": "18",
-      "title": "Compliance & Risk",
-      "file": "18-compliance-risk.html"
-    },
-    {
-      "kicker": "19",
-      "title": "Team & Partners",
-      "file": "19-team-partners.html"
-    },
-    {
-      "kicker": "20",
-      "title": "Disclaimer Summary",
-      "file": "20-disclaimer.html"
-    },
-    {
-      "kicker": "APPENDIX A",
-      "title": "Project Status Framework",
-      "file": "appendix-a-status.html"
-    },
-    {
-      "kicker": "APPENDIX B",
-      "title": "Source & Reference Notes",
-      "file": "appendix-b-sources.html"
-    }
-  ],
-  "site_version": "1.0.1",
-  "site_release_notes": [
-    "UTF-8 metadata hardening",
-    "Official PDF navigation label",
-    "Wider desktop whitepaper sidebar",
-    "Previous/Next chapter navigation",
-    "SEO/Open Graph metadata",
-    "Favicon and mobile navigation improvements"
-  ]
+  "site": "EO Token Whitepaper",
+  "website_version": "v1.1-bilingual",
+  "whitepaper_version": "Public Release v1.0",
+  "default_language": "en",
+  "languages": {
+    "en": "/",
+    "ko": "/ko/"
+  },
+  "whitepaper": {
+    "en": "/whitepaper/",
+    "ko": "/ko/whitepaper/"
+  },
+  "downloads": {
+    "en": "/downloads/EO_Token_Whitepaper_v1.0_EN_Public_Release.pdf",
+    "ko": "/downloads/EO_Token_Whitepaper_v1.0_KR_Public_Release.pdf"
+  }
 }
