@@ -29,3 +29,8 @@ The website is a web-readable presentation of EO Token Whitepaper v1.0 Public Re
 ## Disclaimer
 
 EO Token is designed as a utility token. This repository and website do not constitute investment advice, a securities offering, a guarantee of returns, or government/institutional approval.
+
+
+## Authority policy correction
+
+Clarifies that Mint Authority is revoked after initial issuance, while Freeze Authority is retained under a controlled policy for pre-disclosed lock-up/vesting allocations and exceptional legal, regulatory or security requirements. Ordinary user accounts are not intended to be frozen arbitrarily.

@@ -1,0 +1,9 @@
+EO Token Authority Policy Correction
+
+Corrected policy:
+- Mint Authority: permanently revoked after initial issuance.
+- Freeze Authority: retained under a controlled policy.
+- Intended uses include pre-disclosed lock-up/vesting of initial allocations and Team & Founders allocations, plus exceptional legal, regulatory or security requirements.
+- Ordinary user accounts are not intended to be frozen arbitrarily for operational convenience.
+
+This patch replaces the prior wording that stated Freeze Authority would be permanently revoked.
